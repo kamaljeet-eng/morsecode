@@ -1,5 +1,4 @@
-''' Created by Vikrant
-    This is the most simple morse code convertor '''
+''' This is the most simple morse code convertor '''
 
 def convert_morse(code):
     
