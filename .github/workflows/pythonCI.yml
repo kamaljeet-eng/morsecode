@@ -20,7 +20,7 @@ jobs:
         run: python --version
 
       - name: Run program
-        run: python MorseCode.py
+        run: python MorseCode.py "check testing"
 
       - name: Upload Artifact
         uses: actions/upload-artifact@v7.0.1
