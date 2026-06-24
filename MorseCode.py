@@ -51,7 +51,7 @@ def convert_morse(code):
     return code
 
 msg = "Hello World"
-//msg = input("Enter any message: ")
+# msg = input("Enter any message: ")
 print(f"Initial code :{msg}")
 morse = convert_morse(msg)
 print(f"Morse code: {morse}")
